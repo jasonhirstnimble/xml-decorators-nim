@@ -1,0 +1,19 @@
+{
+  "name": "xml-decorators-nim",
+  "version": "1.0.0",
+  "description": "Decorators for xml serialization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhirstnimble/xml-decorators-nim.git"
+  },
+  "author": "Jason Hirst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonhirstnimble/xml-decorators-nim/issues"
+  },
+  "homepage": "https://github.com/jasonhirstnimble/xml-decorators-nim#readme"
+}
